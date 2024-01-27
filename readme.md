@@ -1,0 +1,1 @@
+A landing page for a project for the "Odin Project" website.
